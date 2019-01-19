@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/background"
+    >
+
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="113dp"
+        android:layout_height="113dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="60dp"
+        android:layout_marginEnd="237dp"
+        android:layout_marginBottom="302dp"
+        android:background="@drawable/lcologo" />
+
+
+    <TextView
+        android:layout_width="204dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="6dp"
+        android:layout_marginBottom="311dp"
+        android:fontFamily="@font/mb"
+        android:text="LCO"
+        android:textColor="#FFFFFF"
+        android:textSize="75sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="249dp"
+        android:fontFamily="@font/mr"
+        android:text="Learn Code Online"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+
+    <!--<com.airbnb.lottie.LottieAnimationView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="150dp"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_marginBottom="48dp"-->
+        <!--app:lottie_autoPlay="true"-->
+        <!--app:lottie_fileName="load.json"-->
+        <!--app:lottie_loop="true" />-->
+
+    <ProgressBar
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="84dp"
+        android:backgroundTint="#ffffff"
+      />
+    </RelativeLayout>
+
+
+
+
+

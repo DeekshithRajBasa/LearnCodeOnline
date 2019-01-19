@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF2F7E9B</color>
+    <color name="colorPrimaryDark">#FF2F7E9B</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="bartop">#FF2F7E9B</color>
+    <color name="bottombar">#FF329B62</color>
+</resources>

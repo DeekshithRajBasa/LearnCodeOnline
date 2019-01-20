@@ -2,7 +2,7 @@
 
 <img  src="https://i.imgur.com/99Vsm8n.png" height="400" href="learncodeonline.in">
 
-This Design is by Deekshith Raj Basa
+Designed by <b>Deekshith Raj Basa</b>
 <br>
 
 [![LCO](https://forthebadge.com/images/badges/built-by-developers.svg)](http://deekshithrajbasa.tk/)
